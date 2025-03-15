@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there! 👋 I'm Emmanuel Oringe
 
-<!--
-**dis-hunter/dis-hunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | Strathmore University  
+💡 Passionate about software development, system design, and emerging tech  
+🚀 Always learning and building cool projects  
 
-Here are some ideas to get you started:
+### 🔭 What I'm Working On
+- 🚢 Dock Management System for Mombasa Port  
+- 🏥 Hospital Management System  
+- 🔄 Real-time Event Broadcasting with Pusher  
+- 📱 iOS App Development with Flutter  
+- 🌐 Full-Stack Web Applications with Laravel & PostgreSQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Exploring
+- 🛠️ Safaricom Daraja API for mobile payments  
+- ☁️ Deploying projects with Railway  
+- 📡 SMS-based Appointment Reminders  
+
+### 💬 Ask Me About
+- Web Development (Laravel, Next.js, Filament)  
+- Database Design (MySQL, PostgreSQL, Firebase)  
+- Networking & System Administration  
+- Game Development with Unity  
+
+### 📫 Connect with Me
+- 📩 emmanueloringe@gmnail.com  
+- 🌍 link to my portfolio coming soon 
+
+⚡ Fun Fact: I love building innovative projects that solve real-world problems!  
